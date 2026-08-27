@@ -1,7 +1,7 @@
-# Snow-Esp-Flasher.github.io
+# Snow-Esp-Flasher
 
 
-https://lorenzo-x64.github.io/Snow-Esp-Flasher/
+https://Tux.png.github.io/Snow-Esp-Flasher/
 
 
 
